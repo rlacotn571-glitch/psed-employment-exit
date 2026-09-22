@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the paper and this repository."
+title: "psed-employment-exit: code for predicting employment exit among wage workers with disabilities"
+authors:
+  - family-names: Kim
+    given-names: Chaesu
+version: 1.0.0
+date-released: 2026-09-22
+license: MIT
+repository-code: "https://github.com/<user>/psed-employment-exit"

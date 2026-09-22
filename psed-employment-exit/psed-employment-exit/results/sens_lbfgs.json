@@ -1,0 +1,72 @@
+[
+ {
+  "model":"logistic (lbfgs)",
+  "n":4530,
+  "events":326,
+  "event_rate":0.0892140323,
+  "auroc":0.6538794011,
+  "auprc":0.1427435298,
+  "brier":0.0797876529,
+  "cal_slope":0.7883985555,
+  "cal_intercept":-0.4424284489,
+  "spec":"주분석 (안 B)",
+  "n_train":6250,
+  "n_test":4530
+ },
+ {
+  "model":"logistic (lbfgs)",
+  "n":4530,
+  "events":355,
+  "event_rate":0.0949586766,
+  "auroc":0.652899444,
+  "auprc":0.152179168,
+  "brier":0.0841194187,
+  "cal_slope":0.8655433617,
+  "cal_intercept":-0.2977698933,
+  "spec":"안 C (비임금 전환 포함)",
+  "n_train":6250,
+  "n_test":4530
+ },
+ {
+  "model":"logistic (lbfgs)",
+  "n":3039,
+  "events":230,
+  "event_rate":0.0903924917,
+  "auroc":0.656830528,
+  "auprc":0.1527718519,
+  "brier":0.0806790001,
+  "cal_slope":0.886180448,
+  "cal_intercept":0.0061457068,
+  "spec":"코로나 제외 (4·5차 제거)",
+  "n_train":4707,
+  "n_test":3039
+ },
+ {
+  "model":"logistic (lbfgs)",
+  "n":911,
+  "events":81,
+  "event_rate":0.1012079956,
+  "auroc":0.5817168421,
+  "auprc":0.1503921048,
+  "brier":0.0902296515,
+  "cal_slope":0.7538907226,
+  "cal_intercept":-0.4963693613,
+  "spec":"중증만",
+  "n_train":1235,
+  "n_test":911
+ },
+ {
+  "model":"logistic (lbfgs)",
+  "n":3610,
+  "events":243,
+  "event_rate":0.0849366834,
+  "auroc":0.6878690475,
+  "auprc":0.1626336985,
+  "brier":0.0753190215,
+  "cal_slope":0.9942062386,
+  "cal_intercept":0.0006931229,
+  "spec":"경증만",
+  "n_train":5015,
+  "n_test":3610
+ }
+]
