@@ -1,0 +1,39 @@
+{
+ "id": "pid",
+ "wave": "wave",
+ "weight": "wt01",
+ "year": "year",
+ "emp_status": {
+  "var": "emp05",
+  "wage": [
+   1
+  ],
+  "jobless": [
+   4
+  ]
+ },
+ "predictors": {
+  "ca2603": {
+   "var": "ca2603"
+  },
+  "gender": {
+   "var": "gender"
+  },
+  "birthy": {
+   "var": "birthy"
+  },
+  "a0710": {
+   "var": "a0710"
+  },
+  "grade02": {
+   "var": "grade02"
+  }
+ },
+ "index_waves": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ]
+}

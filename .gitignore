@@ -1,0 +1,19 @@
+# survey microdata and everything derived from it — never commit
+raw/
+*.sav
+*.dta
+*.sas7bdat
+analysis*.csv
+analysis*.parquet
+kodld_ready/
+kodld_long.csv
+predictions_*.csv
+shap_val.csv
+X_val_transformed.csv
+*.report.xlsx
+ext_*/
+work/
+figures_out/
+__pycache__/
+*.pyc
+.DS_Store

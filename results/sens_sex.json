@@ -1,0 +1,58 @@
+[
+ {
+  "model":"logistic",
+  "n":3402,
+  "events":191,
+  "event_rate":0.0768574362,
+  "auroc":0.6765039574,
+  "auprc":0.1432893292,
+  "brier":0.0691278754,
+  "cal_slope":1.0993929613,
+  "cal_intercept":0.2986705599,
+  "spec":"Re-fitted Men only",
+  "n_train":4716,
+  "events_train":315
+ },
+ {
+  "model":"lightgbm",
+  "n":3402,
+  "events":191,
+  "event_rate":0.0768574362,
+  "auroc":0.7395536183,
+  "auprc":0.1731233865,
+  "brier":0.0680723235,
+  "cal_slope":0.918673993,
+  "cal_intercept":-0.0721321496,
+  "spec":"Re-fitted Men only",
+  "n_train":4716,
+  "events_train":315
+ },
+ {
+  "model":"logistic",
+  "n":1128,
+  "events":135,
+  "event_rate":0.1296060199,
+  "auroc":0.5668833378,
+  "auprc":0.1818586774,
+  "brier":0.112278907,
+  "cal_slope":0.523179241,
+  "cal_intercept":-0.8728910286,
+  "spec":"Re-fitted Women only",
+  "n_train":1534,
+  "events_train":215
+ },
+ {
+  "model":"lightgbm",
+  "n":1128,
+  "events":135,
+  "event_rate":0.1296060199,
+  "auroc":0.5899481301,
+  "auprc":0.1782060468,
+  "brier":0.1167908731,
+  "cal_slope":0.3031121093,
+  "cal_intercept":-1.2268609544,
+  "spec":"Re-fitted Women only",
+  "n_train":1534,
+  "events_train":215
+ }
+]

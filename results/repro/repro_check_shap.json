@@ -1,0 +1,21 @@
+{
+  "max_abs_diff_mean_abs_shap_vs_xlsx": 5.551115123125783e-17,
+  "max_rank_diff_type": 0,
+  "global_top": {
+    "num__ca2603": 0.4772,
+    "num__aca0403": 0.2667,
+    "num__ca1203": 0.1082,
+    "num__ca1401": 0.0984,
+    "num__a0710": 0.0701,
+    "num__birthy": 0.0586,
+    "num__age": 0.0556,
+    "num__f0701": 0.0484,
+    "num__ca2902": 0.0373,
+    "num__ca2603_delta": 0.0344,
+    "num__gender": 0.0326,
+    "num__f0602": 0.0265,
+    "num__ca2301": 0.0244,
+    "num__ca1201": 0.0231,
+    "num__g0101": 0.0227
+  }
+}
