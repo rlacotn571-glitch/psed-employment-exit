@@ -2,7 +2,7 @@
 
 Analysis code for:
 
-> Kim C. *Predicting employment exit among wage workers with disabilities: an explainable machine learning study of a nationally representative panel in Korea.* Submitted to BMC Public Health, 2026.
+> Kim C, Noh TY, Na Y, Lee DG, Kim H. *Predicting employment exit among wage workers with disabilities: an explainable machine learning study of a nationally representative panel in Korea.* Submitted to BMC Public Health, 2026.
 
 A LightGBM, random-forest and penalised-logistic model predict one-year exit from wage employment in the Panel Survey of Employment for the Disabled (PSED-II, waves 1–8, 2016–2023), evaluated on held-out waves 5–7, explained with SHAP, and externally validated in the Korean Disability and Life Dynamics Panel (KoDLD, waves 1–6, 2018–2023). Reporting follows TRIPOD+AI.
 
